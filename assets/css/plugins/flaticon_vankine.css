@@ -1,0 +1,191 @@
+@font-face {
+    font-family: "flaticon_vankine";
+    src: url("../../fonts/flaticon/flaticon_vankine6f9b.ttf?21ed65f060cd73111691c0eeacfa4745") format("truetype"),
+url("../../fonts/flaticon/flaticon_vankine6f9b.woff?21ed65f060cd73111691c0eeacfa4745") format("woff"),
+url("../../fonts/flaticon/flaticon_vankine6f9b.woff2?21ed65f060cd73111691c0eeacfa4745") format("woff2"),
+url("../../fonts/flaticon/flaticon_vankine6f9b.eot?21ed65f060cd73111691c0eeacfa4745#iefix") format("embedded-opentype"),
+url("../../fonts/flaticon/flaticon_vankine6f9b.svg?21ed65f060cd73111691c0eeacfa4745#flaticon_vankine") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_vankine !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+   
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-next:before {
+    content: "\f101";
+}
+.flaticon-pinterest:before {
+    content: "\f102";
+}
+.flaticon-abstract-shape:before {
+    content: "\f103";
+}
+.flaticon-facebook-app-symbol:before {
+    content: "\f104";
+}
+.flaticon-instagram:before {
+    content: "\f105";
+}
+.flaticon-linkedin:before {
+    content: "\f106";
+}
+.flaticon-health-insurance:before {
+    content: "\f107";
+}
+.flaticon-online-analytical:before {
+    content: "\f108";
+}
+.flaticon-growth:before {
+    content: "\f109";
+}
+.flaticon-money-bag:before {
+    content: "\f10a";
+}
+.flaticon-agile:before {
+    content: "\f10b";
+}
+.flaticon-salary:before {
+    content: "\f10c";
+}
+.flaticon-business-trip:before {
+    content: "\f10d";
+}
+.flaticon-health-insurance-1:before {
+    content: "\f10e";
+}
+.flaticon-satisfaction:before {
+    content: "\f10f";
+}
+.flaticon-process:before {
+    content: "\f110";
+}
+.flaticon-trophy:before {
+    content: "\f111";
+}
+.flaticon-car-insurance:before {
+    content: "\f112";
+}
+.flaticon-health-insurance-2:before {
+    content: "\f113";
+}
+.flaticon-reviews:before {
+    content: "\f114";
+}
+.flaticon-cyber-security:before {
+    content: "\f115";
+}
+.flaticon-dashboard:before {
+    content: "\f116";
+}
+.flaticon-business-people:before {
+    content: "\f117";
+}
+.flaticon-healthcare:before {
+    content: "\f118";
+}
+.flaticon-presenter:before {
+    content: "\f119";
+}
+.flaticon-travel-insurance:before {
+    content: "\f11a";
+}
+.flaticon-insurance:before {
+    content: "\f11b";
+}
+.flaticon-plane:before {
+    content: "\f11c";
+}
+.flaticon-check-mark:before {
+    content: "\f11d";
+}
+.flaticon-quotation:before {
+    content: "\f11e";
+}
+.flaticon-telephone:before {
+    content: "\f11f";
+}
+.flaticon-iteration:before {
+    content: "\f120";
+}
+.flaticon-draw-check-mark:before {
+    content: "\f121";
+}
+.flaticon-car-insurance-1:before {
+    content: "\f122";
+}
+.flaticon-life-insurance:before {
+    content: "\f123";
+}
+.flaticon-house:before {
+    content: "\f124";
+}
+.flaticon-management:before {
+    content: "\f125";
+}
+.flaticon-insurance-2:before {
+    content: "\f126";
+}
+.flaticon-marriage:before {
+    content: "\f127";
+}
+.flaticon-enjoy:before {
+    content: "\f128";
+}
+.flaticon-right-quote:before {
+    content: "\f129";
+}
+.flaticon-interview:before {
+    content: "\f12a";
+}
+.flaticon-car-insurance-2:before {
+    content: "\f12b";
+}
+.flaticon-growth-1:before {
+    content: "\f12c";
+}
+.flaticon-user:before {
+    content: "\f12d";
+}
+.flaticon-stethoscope:before {
+    content: "\f12e";
+}
+.flaticon-sea-waves:before {
+    content: "\f12f";
+}
+.flaticon-money:before {
+    content: "\f130";
+}
+.flaticon-black-back-closed-envelope-shape:before {
+    content: "\f131";
+}
+.flaticon-piggy-bank:before {
+    content: "\f132";
+}
+.flaticon-home-insurance:before {
+    content: "\f133";
+}
+.flaticon-airplane-around-earth:before {
+    content: "\f134";
+}
+.flaticon-health-insurance-3:before {
+    content: "\f135";
+}
+.flaticon-tick:before {
+    content: "\f136";
+}
+.flaticon-health-care:before {
+    content: "\f137";
+}
+.flaticon-pin:before {
+    content: "\f138";
+}
+.flaticon-pie-chart:before {
+    content: "\f139";
+}
